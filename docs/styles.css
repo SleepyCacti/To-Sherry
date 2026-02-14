@@ -1,1 +1,43 @@
 /* css styles */
+/* Romantic Theme Styles */
+body {
+  background: linear-gradient(135deg, #FFF9F5 0%, #FDF0E9 100%);
+  background-attachment: fixed;
+  font-family: 'Georgia', serif; /* A classic, romantic font */
+  color: #3D3431;
+}
+
+/* Navbar: Soft Rose with a delicate shadow */
+.navbar {
+  background-color: #FDF0E9 !important;
+  border-bottom: 1px solid #E6B8A2 !important;
+  box-shadow: 0 2px 10px rgba(230, 184, 162, 0.2);
+}
+
+.navbar-brand, .nav-link {
+  color: #8D5B4C !important; /* Earthy rose text */
+  font-weight: bold;
+}
+
+/* Custom "Polaroid" Style for your photos */
+img {
+  background-color: white;
+  padding: 15px 15px 45px 15px; /* Extra bottom padding for that 'caption' space */
+  border: 1px solid #EEE;
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.1);
+  transform: rotate(-1deg); /* Slight tilt for a 'scattered' look */
+  margin: 20px;
+  max-width: 90%;
+}
+
+/* Alternate tilts for photos to make it look like a real scrapbook */
+img:nth-child(even) {
+  transform: rotate(2deg);
+}
+
+/* Headings in a softer tone */
+h1, h2, h3 {
+  color: #A67C6D;
+  text-align: center;
+  margin-top: 40px;
+}

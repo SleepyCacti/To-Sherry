@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "The Project"
+  title: "To Sherry"
   navbar:
     background: "#FDF0E9"
     left:
       - text: "Home"
         href: index.qmd
-        - text: "Gundu"
+      - text: "Gundu"
         href: about.qmd
       - text: "Lil us"
         href: beginning.qmd
