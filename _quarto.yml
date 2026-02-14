@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Blank"
+  title: "The Project"
   navbar:
+    background: "#FDF0E9"
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+        - text: "Gundu"
+        href: about.qmd
+      - text: "Lil us"
+        href: beginning.qmd
+      - text: "Our Story"
+        href: story.qmd
+      - text: "Present Day"
+        href: present.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
 
