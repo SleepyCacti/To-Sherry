@@ -1,9 +1,21 @@
 ---
-title: "About"
+title: "Gundu"
 ---
 
-About this site
+## Us being a gundu bubba
 
-```{r}
-1 + 1
-```
+::: {.look-section}
+![look its me, with my inability to look at the camera when a pic is being taken](look.jpg)
+:::
+
+<br><br><br>
+
+::: {.birb-section}
+![i boop ur nose ah!!!](birb.jpg)
+:::
+
+<div style="margin-top: 800px;"></div> 
+
+::: {.ct-section}
+![If you know, you know 🤫](ct.jpg)
+:::
