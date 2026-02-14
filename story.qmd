@@ -1,4 +1,73 @@
 ---
-title: "story"
-editor: visual
+title: "Our Story"
 ---
+
+## Some of my favorite photos
+
+::: {.story-container}
+
+::: {.custom-row}
+![Mustache Hooman](mustache.jpg)
+
+::: {.caption-box}
+**Mustache Hooman** The mustache makes you so adorable and I think I also want a mustache like that :3
+:::
+:::
+
+<br>
+
+::: {.custom-row .reverse}
+![GBTB Bright Photo :3](fav.jpg)
+
+::: {.caption-box}
+**My Fav photo of you** It's just you being so bright and shining in the greenery. I remember taking this photo and smiling so much watching you.
+:::
+:::
+
+<br>
+
+::: {.custom-row}
+![HUG](hug.jpg)
+
+::: {.caption-box}
+**HUG DA DEER** WHY THE DEER DOWAN HUG U!!! LET U HUG THE DEER PLS!!!
+:::
+:::
+
+:::
+
+---
+
+## Progressing through the tougher times...
+
+::: {layout-ncol=2}
+![My final milestone in national service and i did it w u <3](ord.jpg)
+
+![I found this photo of us and you look really beautiful :>](white.jpg)
+:::
+
+These two photos mean a lot to me. From finishing the NS chapter to just finding random old photos where you look mani yippeo, it’s all part of our lil story.
+
+
+---
+## Our lil video collage from Solace Studios :D
+
+::: {.video-collage}
+
+::: {.video-item}
+{{< video pink.mp4 >}}
+:::
+
+::: {.video-item}
+{{< video lift.mp4 >}}
+:::
+
+::: {.video-item}
+{{< video cool.mp4 >}}
+:::
+
+::: {.video-item}
+{{< video blu.mp4 >}}
+:::
+
+:::
