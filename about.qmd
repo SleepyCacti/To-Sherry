@@ -2,16 +2,16 @@
 title: "Gundu"
 ---
 
-## Us being a gundu bubba
+## Us being gundu bubbas
 
 ::: look-section
-![look its me, with my inability to look at the camera when a pic is being taken](look.jpg)
+![Lookie!! Its me, with the inability to look at the camera when a pic is being taken :3](look.jpg)
 :::
 
 <br><br><br>
 
 ::: birb-section
-![i boop ur nose ah!!!](birb.jpg)
+![I boop ur nose ah!!!](birb.jpg)
 :::
 
 ::: {style="margin-top: 800px;"}
