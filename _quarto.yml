@@ -21,6 +21,8 @@ website:
         href: story.qmd
       - text: "Present Day"
         href: present.qmd
+      - text: "Funny"
+        href: test.qmd
 
 format:
   html:

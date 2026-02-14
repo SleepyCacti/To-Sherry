@@ -1,4 +1,22 @@
 ---
-title: "test"
-editor: visual
+title: "Funny"
 ---
+
+::: {.funny-video-container}
+
+
+{{< video eat.mp4 >}}
+
+::: {.comical-caption}
+When you tried to copy my eating speed... 😅
+:::
+
+<br><br><hr><br><br>
+
+{{< video wot.mp4 >}}
+
+::: {.comical-caption}
+Me being a weird gundu
+:::
+
+:::
