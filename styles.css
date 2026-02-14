@@ -81,7 +81,9 @@ figcaption {
 .funny-video-container video {
   max-width: 80%;
   border-radius: 15px;
+  border: 4px solid #FDF0E9; /* Matching your romantic peach theme */
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  margin-bottom: 10px;
 }
 
 .comical-caption {
@@ -90,11 +92,4 @@ figcaption {
   font-size: 1.5rem;
   color: #8D5B4C;
   text-align: center;
-}
-.funny-video-container video {
-  max-width: 80%;
-  border-radius: 15px;
-  border: 4px solid #FDF0E9; /* Matching your romantic peach theme */
-  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-  margin-bottom: 10px;
 }

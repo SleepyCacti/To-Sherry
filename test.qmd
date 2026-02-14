@@ -2,19 +2,22 @@
 title: "Funny"
 ---
 
-::: {.funny-video-container}
+::: {.funny-content}
 
-
+### Hehehe
+::: {.video-wrapper}
 {{< video eat.mp4 >}}
-
+:::
 ::: {.comical-caption}
 When you tried to copy my eating speed... 😅
 :::
 
 <br><br><hr><br><br>
 
+### Me 🤪
+::: {.video-wrapper}
 {{< video wot.mp4 >}}
-
+:::
 ::: {.comical-caption}
 Me being a weird gundu
 :::
