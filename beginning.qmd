@@ -2,7 +2,7 @@
 title: "Lil us"
 ---
 
-# Where it all began...
+# Back when we were smol...
 
 ::: {layout-ncol="2"}
 ![Smol us 1](smol_us_1.jpg)
