@@ -4,18 +4,19 @@ title: "Gundu"
 
 ## Us being a gundu bubba
 
-::: {.look-section}
+::: look-section
 ![look its me, with my inability to look at the camera when a pic is being taken](look.jpg)
 :::
 
 <br><br><br>
 
-::: {.birb-section}
+::: birb-section
 ![i boop ur nose ah!!!](birb.jpg)
 :::
 
-<div style="margin-top: 800px;"></div> 
+::: {style="margin-top: 800px;"}
+:::
 
-::: {.ct-section}
+::: ct-section
 ![If you know, you know 🤫](ct.jpg)
 :::
